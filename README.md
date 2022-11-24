@@ -1,6 +1,8 @@
 <div align="center">
   <h1 align="center">Awesome Solidity Gas-Optimization ⛽</h1>
   <h6 align="center">(Inspired from this issue https://github.com/iskanderandrews/troubleshooting/issues/38)</h6>
+    <h6 align="center">Also see <a href="https://cryptoguide.dev/posts/solidity-gas-optimizations-guide/">my guide on Solidity gas optimizations</a> </h6>
+
   <p align="center">
     <a href="https://github.com/sindresorhus/awesome">
       <img alt="awesome list badge" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
